@@ -122,177 +122,127 @@
             <td>
                <label>Calidad de los docentes:</label>
             </td>
-            <td>Malcolm Lockyer</td>
-            <td>1961</td>
+            <td > 
+               <input type="radio" name="calidad_docentes" value="1" required="" id="calidad_docentes" class="mt-2 ml-14">
+            </td>
+            <td>
+               <input type="radio" name="calidad_docentes" value="2" required="" id="calidad_docentes" class="mt-2 ml-14">
+            </td>
+            <td>
+               <input type="radio" name="calidad_docentes" value="3" required="" id="calidad_docentes" class="mt-2 ml-14">
+            </td>
+            <td>
+               <input type="radio" name="calidad_docentes" value="4" required="" id="calidad_docentes" class="mt-2 ml-14">
+            </td>
+            <td>
+               <input type="radio" name="calidad_docentes" value="5" required="" id="calidad_docentes" class="mt-2 ml-14">
+            </td>
          </tr>
          <tr>
-            <td>
-               <input type="radio" name="calidad_docentes" value="1" required="" id="calidad_docentes_0">
+         <td>
+               <label>Plan de estudio:</label>
             </td>
-            <td>The Eagles</td>
-            <td>1972</td>
+            <td> 
+               <input type="radio" name="plan_estudios" value="1" required="" id="plan_estudios" class="mt-2 ml-14">
+            </td>
+            <td>
+               <input type="radio" name="plan_estudios" value="2" required="" id="plan_estudios" class="mt-2 ml-14">
+            </td>
+            <td>
+               <input type="radio" name="plan_estudios" value="3" required="" id="plan_estudios" class="mt-2 ml-14">
+            </td>
+            <td>
+               <input type="radio" name="plan_estudios" value="4" required="" id="plan_estudios" class="mt-2 ml-14">
+            </td>
+            <td>
+               <input type="radio" name="plan_estudios" value="5" required="" id="plan_estudios" class="mt-2 ml-14">
+            </td>
          </tr>
          <tr>
-            <td>
-               <input type="radio" name="calidad_docentes" value="2" required="" id="calidad_docentes_0">
+         <td>
+               <label>Oportunidad de participar en proyectos de investigación y desarrollo:</label>
             </td>
-            <td>Earth, Wind, and Fire</td>
-            <td>1975</td>
+            <td> 
+               <input type="radio" name="oportunidad_investigacion" value="1" required="" id="calidad_docentes" class="mt-2 ml-14">
+            </td>
+            <td>
+               <input type="radio" name="oportunidad_investigacion" value="2" required="" id="calidad_docentes" class="mt-2 ml-14">
+            </td>
+            <td>
+               <input type="radio" name="oportunidad_investigacion" value="3" required="" id="calidad_docentes" class="mt-2 ml-14">
+            </td>
+            <td>
+               <input type="radio" name="oportunidad_investigacion" value="4" required="" id="calidad_docentes" class="mt-2 ml-14">
+            </td>
+            <td>
+               <input type="radio" name="oportunidad_investigacion" value="5" required="" id="calidad_docentes" class="mt-2 ml-14">
+            </td>
          </tr>
          <tr>
-            <td>
-               <input type="radio" name="calidad_docentes" value="2" required="" id="calidad_docentes_0">
+         <td>
+               <label>Satisfacción de las condiciones de estudio (infraestructural):</label>
             </td>
-            <td>Earth, Wind, and Fire</td>
-            <td>1975</td>
+            <td class="mt-2 ml-20"> 
+               <input type="radio" name="satisfaccion_condiciones_estudio" value="1" required="" id="satisfaccion_condiciones_estudio" class="mt-2 ml-14">
+            </td>
+            <td class="mt-2 ml-20">
+               <input type="radio" name="satisfaccion_condiciones_estudio" value="2" required="" id="satisfaccion_condiciones_estudio" class="mt-2 ml-14">
+            </td>
+            <td class="mt-2 ml-20">
+               <input type="radio" name="satisfaccion_condiciones_estudio" value="3" required="" id="satisfaccion_condiciones_estudio" class="mt-2 ml-14">
+            </td>
+            <td class="mt-2 ml-20">
+               <input type="radio" name="satisfaccion_condiciones_estudio" value="4" required="" id="satisfaccion_condiciones_estudio" class="mt-2 ml-14">
+            </td>
+            <td class="mt-2 ml-20">
+               <input type="radio" name="satisfaccion_condiciones_estudio" value="5" required="" id="satisfaccion_condiciones_estudio" class="mt-2 ml-14">
+            </td>
          </tr>
          <tr>
-            <td>
-               <input type="radio" name="calidad_docentes" value="2" required="" id="calidad_docentes_0">
+         <td>
+               <label>Calidad de los docentes:</label>
             </td>
-            <td>Earth, Wind, and Fire</td>
-            <td>1975</td>
+            <td class="mt-2 ml-20"> 
+               <input type="radio" name="calidad_docentes" value="1" required="" id="calidad_docentes" class="mt-2 ml-14">
+            </td>
+            <td class="mt-2 ml-20">
+               <input type="radio" name="calidad_docentes" value="2" required="" id="calidad_docentes" class="mt-2 ml-14">
+            </td>
+            <td class="mt-2 ml-20">
+               <input type="radio" name="calidad_docentes" value="3" required="" id="calidad_docentes" class="mt-2 ml-14">
+            </td>
+            <td class="mt-2 ml-20">
+               <input type="radio" name="calidad_docentes" value="4" required="" id="calidad_docentes" class="mt-2 ml-14">
+            </td>
+            <td class="mt-2 ml-20">
+               <input type="radio" name="calidad_docentes" value="5" required="" id="calidad_docentes" class="mt-2 ml-14">
+            </td>
          </tr>
          <tr>
-            <td>
-               <input type="radio" name="calidad_docentes" value="2" required="" id="calidad_docentes_0">
+         <td>
+               <label>Calidad de los docentes:</label>
             </td>
-            <td>Earth, Wind, and Fire</td>
-            <td>1975</td>
+            <td class="mt-2 ml-20"> 
+               <input type="radio" name="calidad_docentes" value="1" required="" id="calidad_docentes" class="mt-2 ml-14">
+            </td>
+            <td class="mt-2 ml-20">
+               <input type="radio" name="calidad_docentes" value="2" required="" id="calidad_docentes" class="mt-2 ml-14">
+            </td>
+            <td class="mt-2 ml-20">
+               <input type="radio" name="calidad_docentes" value="3" required="" id="calidad_docentes" class="mt-2 ml-14">
+            </td>
+            <td class="mt-2 ml-20">
+               <input type="radio" name="calidad_docentes" value="4" required="" id="calidad_docentes" class="mt-2 ml-14">
+            </td>
+            <td class="mt-2 ml-20">
+               <input type="radio" name="calidad_docentes" value="5" required="" id="calidad_docentes" class="mt-2 ml-14">
+            </td>
          </tr>
       </tbody>
       </table>
 
 
-
-     
- 
-         <div id="calidad_docentes">
-            <div>
-               <label for="calidad_docentes_0"><input type="radio" name="calidad_docentes" value="1" required="" id="calidad_docentes_0">
-                  1</label>
-
-            </div>
-            <div>
-               <label for="calidad_docentes_1"><input type="radio" name="calidad_docentes" value="2" required="" id="calidad_docentes_1">
-                  2</label>
-
-            </div>
-            <div>
-               <label for="calidad_docentes_2"><input type="radio" name="calidad_docentes" value="3" required="" id="calidad_docentes_2">
-                  3</label>
-
-            </div>
-            <div>
-               <label for="calidad_docentes_3"><input type="radio" name="calidad_docentes" value="4" required="" id="calidad_docentes_3">
-                  4</label>
-
-            </div>
-            <div>
-               <label for="calidad_docentes_4"><input type="radio" name="calidad_docentes" value="5" required="" id="calidad_docentes_4">
-                  5</label>
-
-            </div>
-         </div>
-
-
-
-
-
-
-         <label>Plan de estudios:</label>
-    
-         <div id="id_plan_estudios">
-            <div>
-               <label for="id_plan_estudios_0"><input type="radio" name="plan_estudios" value="1" required="" id="id_plan_estudios_0">
-                  1</label>
-
-            </div>
-            <div>
-               <label for="id_plan_estudios_1"><input type="radio" name="plan_estudios" value="2" required="" id="id_plan_estudios_1">
-                  2</label>
-
-            </div>
-            <div>
-               <label for="id_plan_estudios_2"><input type="radio" name="plan_estudios" value="3" required="" id="id_plan_estudios_2">
-                  3</label>
-
-            </div>
-            <div>
-               <label for="id_plan_estudios_3"><input type="radio" name="plan_estudios" value="4" required="" id="id_plan_estudios_3">
-                  4</label>
-
-            </div>
-            <div>
-               <label for="id_plan_estudios_4"><input type="radio" name="plan_estudios" value="5" required="" id="id_plan_estudios_4">
-                  5</label>
-
-            </div>
-         </div>
-
-
-
-         <label>Oportunidad de participar en proyectos de investigación y desarrollo:</label>
-    
-         <div id="id_oportunidad_investigacion">
-            <div>
-               <label for="id_oportunidad_investigacion_0"><input type="radio" name="oportunidad_investigacion" value="1" required="" id="id_oportunidad_investigacion_0">
-                  1</label>
-
-            </div>
-            <div>
-               <label for="id_oportunidad_investigacion_1"><input type="radio" name="oportunidad_investigacion" value="2" required="" id="id_oportunidad_investigacion_1">
-                  2</label>
-
-            </div>
-            <div>
-               <label for="id_oportunidad_investigacion_2"><input type="radio" name="oportunidad_investigacion" value="3" required="" id="id_oportunidad_investigacion_2">
-                  3</label>
-
-            </div>
-            <div>
-               <label for="id_oportunidad_investigacion_3"><input type="radio" name="oportunidad_investigacion" value="4" required="" id="id_oportunidad_investigacion_3">
-                  4</label>
-
-            </div>
-            <div>
-               <label for="id_oportunidad_investigacion_4"><input type="radio" name="oportunidad_investigacion" value="5" required="" id="id_oportunidad_investigacion_4">
-                  5</label>
-
-            </div>
-         </div>
-
-
-
-         <label>Satisfacción de las condiciones de estudio (infraestructural):</label>
-  
-         <div id="id_satisfaccion_condiciones_estudio">
-            <div>
-               <label for="id_satisfaccion_condiciones_estudio_0"><input type="radio" name="satisfaccion_condiciones_estudio" value="1" required="" id="id_satisfaccion_condiciones_estudio_0">
-                  1</label>
-
-            </div>
-            <div>
-               <label for="id_satisfaccion_condiciones_estudio_1"><input type="radio" name="satisfaccion_condiciones_estudio" value="2" required="" id="id_satisfaccion_condiciones_estudio_1">
-                  2</label>
-
-            </div>
-            <div>
-               <label for="id_satisfaccion_condiciones_estudio_2"><input type="radio" name="satisfaccion_condiciones_estudio" value="3" required="" id="id_satisfaccion_condiciones_estudio_2">
-                  3</label>
-
-            </div>
-            <div>
-               <label for="id_satisfaccion_condiciones_estudio_3"><input type="radio" name="satisfaccion_condiciones_estudio" value="4" required="" id="id_satisfaccion_condiciones_estudio_3">
-                  4</label>
-
-            </div>
-            <div>
-               <label for="id_satisfaccion_condiciones_estudio_4"><input type="radio" name="satisfaccion_condiciones_estudio" value="5" required="" id="id_satisfaccion_condiciones_estudio_4">
-                  5</label>
-
-            </div>
-         </div>
+   <br>
 
 
 
