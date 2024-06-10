@@ -67,7 +67,6 @@ return new class extends Migration
             $table->tinyInteger('compromiso_obligaciones');
             $table->tinyInteger('apego_normatividad');
 
-            $table->tinyInteger('concordancia_ideas_acciones');
             $table->tinyInteger('emociones_interlocutor');
             $table->tinyInteger('carta_referencia');
             $table->tinyInteger('informacion_procedimientos');
@@ -94,19 +93,10 @@ return new class extends Migration
 
             $table->tinyInteger('asesoria_arquitectura_computadoras');
             $table->tinyInteger('conocimientos_analisis_diseno_pruebas');
-            $table->tinyInteger('conocimientos_analisis_diseno_pruebas');
             $table->tinyInteger('capacidad_detectar_necesidades');
             $table->tinyInteger('planear_administrar_ejecutar');
-
             $table->tinyInteger('habilidades_liderazgo_ti');
-            $table->tinyInteger('tecnicas_herramientas_software');
-            $table->tinyInteger('tecnicas_herramientas_software');
-            $table->tinyInteger('tecnicas_herramientas_software');
-            $table->tinyInteger('tecnicas_herramientas_software');
-            $table->tinyInteger('tecnicas_herramientas_software');
-            $table->tinyInteger('tecnicas_herramientas_software');
-            $table->tinyInteger('tecnicas_herramientas_software');
-
+          
             $table->timestamps();
         });
     }

@@ -1712,29 +1712,6 @@
 
                <tr>
                   <td>
-                     <label>Tiene conocimientos para realizar Análisis y diseño de casos de pruebas, ejecución, levantamiento de defectos, Testing Funcional, Construcción y Ejecución de Entregables para la Metodología de pruebas aplicando Herramientas como QC, ALM, TFS ó Selenium entre otras:</label>
-                  </td>
-                  <td class="mt-2 ml-20">
-                     <input type="radio" name="conocimientos_analisis_diseno_pruebas" value="1" required="" id="conocimientos_analisis_diseno_pruebas" class="mt-2 ml-14">
-                  </td>
-                  <td class="mt-2 ml-20">
-                     <input type="radio" name="conocimientos_analisis_diseno_pruebas" value="2" required="" id="conocimientos_analisis_diseno_pruebas" class="mt-2 ml-14">
-                  </td>
-                  <td class="mt-2 ml-20">
-                     <input type="radio" name="conocimientos_analisis_diseno_pruebas" value="3" required="" id="conocimientos_analisis_diseno_pruebas" class="mt-2 ml-14">
-                  </td>
-                  <td class="mt-2 ml-20">
-                     <input type="radio" name="conocimientos_analisis_diseno_pruebas" value="4" required="" id="conocimientos_analisis_diseno_pruebas" class="mt-2 ml-14">
-                  </td>
-                  <td class="mt-2 ml-20">
-                     <input type="radio" name="conocimientos_analisis_diseno_pruebas" value="5" required="" id="conocimientos_analisis_diseno_pruebas" class="mt-2 ml-14">
-                  </td>
-
-               </tr>
-
-
-               <tr>
-                  <td>
                      <label>Cuenta con la capacidad para detectar y ubicar las necesidades de Tecnologías de Información de una organización ,que le permita definir e integrar soluciones y servicios mediante el desarrollo de software:</label>
                   </td>
                   <td class="mt-2 ml-20">
