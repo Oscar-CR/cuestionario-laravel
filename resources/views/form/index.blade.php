@@ -296,22 +296,22 @@
 
          <div id="id_eficiencia_laboral">
             <div>
-               <label for="id_eficiencia_laboral_0"><input type="radio" name="eficiencia_laboral" value="muy_eficiente" required id="eficiencia_laboral">
+               <label for="id_eficiencia_laboral_0"><input type="radio" name="eficiencia_laboral" value="4" required id="eficiencia_laboral">
                   Muy eficiente</label>
 
             </div>
             <div>
-               <label for="id_eficiencia_laboral_1"><input type="radio" name="eficiencia_laboral" value="eficiente" required id="eficiencia_laboral">
+               <label for="id_eficiencia_laboral_1"><input type="radio" name="eficiencia_laboral" value="3" required id="eficiencia_laboral">
                   Eficiente</label>
 
             </div>
             <div>
-               <label for="id_eficiencia_laboral_2"><input type="radio" name="eficiencia_laboral" value="poco_eficiente" required id="eficiencia_laboral">
+               <label for="id_eficiencia_laboral_2"><input type="radio" name="eficiencia_laboral" value="2" required id="eficiencia_laboral">
                   Poco eficiente</label>
 
             </div>
             <div>
-               <label for="id_eficiencia_laboral_3"><input type="radio" name="eficiencia_laboral" value="deficiente" required id="eficiencia_laboral">
+               <label for="id_eficiencia_laboral_3"><input type="radio" name="eficiencia_laboral" value="1" required id="eficiencia_laboral">
                   Deficiente</label>
 
             </div>
@@ -321,27 +321,27 @@
 
          <div id="id_calificacion_formacion_laboral">
             <div>
-               <label for="id_calificacion_formacion_laboral_0"><input type="radio" name="calificacion_formacion_laboral" value="excelente" required id="calificacion_formacion_laboral">
+               <label for="id_calificacion_formacion_laboral_0"><input type="radio" name="calificacion_formacion_laboral" value="5" required id="calificacion_formacion_laboral">
                   Excelente</label>
 
             </div>
             <div>
-               <label for="id_calificacion_formacion_laboral_1"><input type="radio" name="calificacion_formacion_laboral" value="bueno" required id="calificacion_formacion_laboral">
+               <label for="id_calificacion_formacion_laboral_1"><input type="radio" name="calificacion_formacion_laboral" value="4" required id="calificacion_formacion_laboral">
                   Bueno</label>
 
             </div>
             <div>
-               <label for="id_calificacion_formacion_laboral_2"><input type="radio" name="calificacion_formacion_laboral" value="regular" required id="calificacion_formacion_laboral">
+               <label for="id_calificacion_formacion_laboral_2"><input type="radio" name="calificacion_formacion_laboral" value="3" required id="calificacion_formacion_laboral">
                   Regular</label>
 
             </div>
             <div>
-               <label for="id_calificacion_formacion_laboral_3"><input type="radio" name="calificacion_formacion_laboral" value="malo" required id="calificacion_formacion_laboral">
+               <label for="id_calificacion_formacion_laboral_3"><input type="radio" name="calificacion_formacion_laboral" value="2" required id="calificacion_formacion_laboral">
                   Malo</label>
 
             </div>
             <div>
-               <label for="id_calificacion_formacion_laboral_4"><input type="radio" name="calificacion_formacion_laboral" value="pesimo" required id="calificacion_formacion_laboral">
+               <label for="id_calificacion_formacion_laboral_4"><input type="radio" name="calificacion_formacion_laboral" value="1" required id="calificacion_formacion_laboral">
                   Pésimo</label>
 
             </div>
@@ -352,27 +352,27 @@
 
          <div id="id_utilidad_residencias_practicas">
             <div>
-               <label for="id_utilidad_residencias_practicas_0"><input type="radio" name="utilidad_residencias_practicas" value="excelente" required id="utilidad_residencias_practicas">
+               <label for="id_utilidad_residencias_practicas_0"><input type="radio" name="utilidad_residencias_practicas" value="5" required id="utilidad_residencias_practicas">
                   Excelente</label>
 
             </div>
             <div>
-               <label for="id_utilidad_residencias_practicas_1"><input type="radio" name="utilidad_residencias_practicas" value="bueno" required id="utilidad_residencias_practicas">
+               <label for="id_utilidad_residencias_practicas_1"><input type="radio" name="utilidad_residencias_practicas" value="4" required id="utilidad_residencias_practicas">
                   Bueno</label>
 
             </div>
             <div>
-               <label for="id_utilidad_residencias_practicas_2"><input type="radio" name="utilidad_residencias_practicas" value="regular" required id="utilidad_residencias_practicas">
+               <label for="id_utilidad_residencias_practicas_2"><input type="radio" name="utilidad_residencias_practicas" value="3" required id="utilidad_residencias_practicas">
                   Regular</label>
 
             </div>
             <div>
-               <label for="id_utilidad_residencias_practicas_3"><input type="radio" name="utilidad_residencias_practicas" value="malo" required id="utilidad_residencias_practicas">
+               <label for="id_utilidad_residencias_practicas_3"><input type="radio" name="utilidad_residencias_practicas" value="2" required id="utilidad_residencias_practicas">
                   Malo</label>
 
             </div>
             <div>
-               <label for="id_utilidad_residencias_practicas_4"><input type="radio" name="utilidad_residencias_practicas" value="pesimo" required id="utilidad_residencias_practicas">
+               <label for="id_utilidad_residencias_practicas_4"><input type="radio" name="utilidad_residencias_practicas" value="1" required id="utilidad_residencias_practicas">
                   Pésimo</label>
 
             </div>
