@@ -10,6 +10,11 @@ class FormController extends Controller
     public function index() {
         return view('form.index');
     }
+
+    public function all() {
+        $registros = Form::all();
+        return view('form.index', compact('registros'));
+    }
     public function store(Request $request)  {
 
       
